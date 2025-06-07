@@ -19,7 +19,5 @@ This is a grid-based arcade game where you control a growing snake that must eat
 
 Java was chosen for its platform independence, performance, and strong community support in game development.
 
----
 
-👩‍💻 Developed by Helia Sadat Mohammadi
 
